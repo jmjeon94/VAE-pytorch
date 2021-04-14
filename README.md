@@ -1,10 +1,15 @@
 # Implementation of VAE
 This is implementation of VAE(Variational Auto Encoder).
 
-## How to Train
+## Usage
+### How to Train
 Train Data: MNIST
 ```shell script
 $ python3 train.py
+```
+### How to show results
+```shell script
+$ python3 evaluate.py
 ```
 
 ## Results 
